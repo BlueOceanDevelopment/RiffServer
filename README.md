@@ -1,5 +1,8 @@
 # RiffServer
 
+## Note
+This was a student project I helped build in Jan 2023 during my time at Hack Reactor.
+
 ## Description
 Riff is a messaging application built for mobile, inspired by Slack. Users chat with others in shared servers across a number of topic specific channels. They can also directly message other users.
 
